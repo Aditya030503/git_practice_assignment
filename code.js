@@ -525,7 +525,7 @@ margin-top: 5%;
         <div><h1>Xe</h1></div>
         <div><h1>Cs</h1></div>
         <div><h1>Ba</h1></div>
-        <div><img id="img" src="https://static.thenounproject.com/png/1729056-200.png" alt="" width="30px" style="margin-top: 25px;"><img id="img" src="https://static.thenounproject.com/png/1729056-200.png" alt="" width="30px"><img src="https://static.thenounproject.com/png/1729056-200.png" alt="" width="30px"><img src="https://static.thenounproject.com/png/1729056-200.png" alt="" width="20px"></div>
+        <div></div>
         <div><h1>Hf</h1></div>
         <div><h1>Ta</h1></div>
         <div><h1>W</h1></div>
@@ -544,9 +544,8 @@ margin-top: 5%;
         <div><h1>Fr</h1></div>
         <div><h1>Ra</h1></div>
         
-       <div>
-        <img id="img" src="/icons8-vertical-line-32.png" alt=""  ><img id="img" src="/icons8-vertical-line-32.png" alt=""><img src="https://cdn-icons-png.flaticon.com/512/109/109605.png" alt="" style="float: left;" width="30px">
-    </div>
+       <div></div>
+        
        <div><h1>Rf</h1></div>
        <div><h1>Db</h1></div>
        <div><h1>Sg</h1></div>
